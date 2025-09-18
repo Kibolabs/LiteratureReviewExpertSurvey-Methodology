@@ -2,7 +2,6 @@
 # 🎮 Educational Games SLR: Mapping Learning Elements to Game Mechanics
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![Research Repo](https://img.shields.io/badge/Research-Open%20Data-green.svg)](#)
 
 This repository hosts the data and methodology for the study:
