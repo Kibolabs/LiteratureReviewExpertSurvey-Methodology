@@ -57,8 +57,9 @@ The aim is to provide transparent, reusable resources for the serious games comm
 ---
 
 ### 4. Data & Reproducibility
-- [`data/02GM-LM-Relationships Data.xlsx`](data/02GM-LM-Relationships%20Data.xlsx): Raw coding dataset (Sheet: `DataSet`).  
-- [`data/included_studies.csv`](data/included_studies.csv): List of 72 included studies (Paper IDs).  
+- [`data/Selected StudiesDataRAW.xlsx`](data/Selected%20StudiesDataRAW.xlsx): Raw coding dataset (Sheet: `DataSet`).  
+- [`data/02GM-LM-Relationships Data.xlsx`](data/02GM-LM-Relationships%20Data.xlsx): List of 72 included studies (Paper IDs). 
+-[`data/ExpertSurvey-RawData.xlsx`](data/ExpertSurvey-RawData.xlsx): Raw respondents dataset (anonymized) (Sheet: `DataSet`).
 - [`docs/survey_instrument.pdf`](docs/survey_instrument.pdf): Full survey instrument.  
 - All resources are provided under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
 
@@ -67,16 +68,28 @@ The aim is to provide transparent, reusable resources for the serious games comm
 ## 📂 Repository Layout
 
 LiteratureReviewExpertSurvey-Methodology/
+
 │
+
 ├── README.md # Project overview & methodology
+
 ├── LICENSE # Open license (CC BY 4.0)
+
 │
+
 ├── data/
+
 │ ├── 02GM-LM-Relationships Data.xlsx # Coding dataset
+
 │ └── included_studies.csv # 72 included papers (IDs)
+
 │
+
 ├── docs/
+
 │ ├── methodology.md # Full detailed methodology
+
 │ └── survey_instrument.pdf # Survey instrument
+
 
 
